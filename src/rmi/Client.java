@@ -13,6 +13,8 @@ import java.util.Scanner;
  *
  * @author Reimondo
  */
+
+/*hejsan!!!*/
 public class Client extends UnicastRemoteObject implements Notifiable {
 
     private Services service;
